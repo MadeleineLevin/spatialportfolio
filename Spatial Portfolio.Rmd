@@ -3,7 +3,7 @@ title: "Spatial Portfolio"
 author: "Madeleine Levin"
 date: "10/14/2021"
 output: 
-  rmdformats::robobook
+  rmdformats::downcute
 ---
 
 ```{r setup, include=FALSE}
@@ -24,9 +24,9 @@ Your portfolio should demonstrate each of the following skills:
 * Displaying data on an interactive map
 
 # Cambridge, MA
-Here are two maps of Boston. I might include some text here about this set of maps.
+Here is a map of Cambridge, MA.
 
-[![](Images/CambridgeMap.png)] (https://madeleinelevin.github.io/spatialportfolio/PDFs/CambridgeMap.pdf) {target="_blank"}
+[![](Images/CambridgeMap.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/CambridgeMap.pdf){target="_blank"}
 
 ## Interactive Map
 This interactive map demonstrates the following skills: 
