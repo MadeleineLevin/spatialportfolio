@@ -3,7 +3,7 @@ title: "Spatial Portfolio"
 author: "Madeleine Levin"
 date: "10/14/2021"
 output: 
-  rmdformats::html_docco
+  rmdformats::robobook
 ---
 
 ```{r setup, include=FALSE}
@@ -34,12 +34,12 @@ For an assignment on Georeferencing, a map of Mumbai from 1960 was brought into 
 
 ## Historical Administrative Boundaries
 
-[![](Images/1960_MumbaiAdminBoundaries.tiff)](https://madeleinelevin.github.io/spatialportfolio/PDFs/CambridgeMap.pdf){target="_blank"}
+[![](Images/1960_MumbaiAdminBoundaries.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/CambridgeMap.pdf){target="_blank"}
 
 
 ## Current Population Density
 
-[![](Images/Mumbai_PopulationDensity.tiff)](https://madeleinelevin.github.io/spatialportfolio/PDFs/CambridgeMap.pdf){target="_blank"}
+[![](Images/Mumbai_PopulationDensity.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/CambridgeMap.pdf){target="_blank"}
 
 
 # Philadelphia, PA
