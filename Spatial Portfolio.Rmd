@@ -44,12 +44,20 @@ For an assignment on Georeferencing, a map of Mumbai from 1960 was brought into 
 
 # Philadelphia, PA
 
+## Neighborhoods by Number of Bike Share Stations
 
+[![](Images/PhillyBikeShare.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
+
+## Bike Crashes by Distance to Bike Share Station
+
+[![](Images/PhillyBikeCrash.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
 # Portland, OR
 This series of maps explores food access in Portland, Oregon. It uses transit data, grocery store data points, and poverty status to identify the neighborhoods in Portland with the most need for greater grocery store access. 
 
 ## Grocery Store Transit Accessibility
+
+[![](Images/GroceryStoreTransitTime.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
 ## Grocery Store Walking Accessibility 
 The following two maps (the first a vector, the second a raster) visualize the same Walking Accessibility Scores. Very few neighborhoods in Portland are accessible on foot to grocery stores. 
