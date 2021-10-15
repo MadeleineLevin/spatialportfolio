@@ -44,4 +44,13 @@ For an assignment on Georeferencing, a map of Mumbai from 1960 was brought into 
 
 # Philadelphia, PA
 
+
+
 # Portland, OR
+
+## Grocery Store Accessibility 
+
+## Interactive Map- Grocery Stores and Poverty
+
+[![](PDFs/PDXPoverty2019_Grocery.html)](https://madeleinelevin.github.io/spatialportfolio/PDFs/PDXPoverty2019_Grocery.html){target="_blank"}
+
