@@ -3,7 +3,7 @@ title: "Spatial Portfolio"
 author: "Madeleine Levin"
 date: "10/14/2021"
 output: 
-  rmdformats::downcute
+  rmdformats::html_docco
 ---
 
 ```{r setup, include=FALSE}
@@ -24,17 +24,24 @@ Your portfolio should demonstrate each of the following skills:
 * Displaying data on an interactive map
 
 # Cambridge, MA
-Here is a map of Cambridge, MA.
+This map of Cambridge, MA visualizes multiple vector layers: open space and schools in the town. 
 
 [![](Images/CambridgeMap.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/CambridgeMap.pdf){target="_blank"}
 
-## Interactive Map
-This interactive map demonstrates the following skills: 
-
-* Displaying data on an interactive map
 
 # Mumbai, India
+For an assignment on Georeferencing, a map of Mumbai from 1960 was brought into conversation with both historical and more recent data about the city.
 
-# Philadelhpia, PA
+## Historical Administrative Boundaries
+
+[![](Images/1960_MumbaiAdminBoundaries.tiff)](https://madeleinelevin.github.io/spatialportfolio/PDFs/CambridgeMap.pdf){target="_blank"}
+
+
+## Current Population Density
+
+[![](Images/Mumbai_PopulationDensity.tiff)](https://madeleinelevin.github.io/spatialportfolio/PDFs/CambridgeMap.pdf){target="_blank"}
+
+
+# Philadelphia, PA
 
 # Portland, OR
