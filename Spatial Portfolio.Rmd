@@ -83,6 +83,8 @@ This series of maps explores food access in Portland, Oregon. It uses transit da
 ## Grocery Store Transit Accessibility
 Skills shown: calculating and displaying relationships among point and polygon layers based on distance; Calculating and displaying accessibility, based on travel time
 
+This map uses the Trimet data to estimate the amount of time it takes to reach a grocery store on public transit. Most areas are within a 20 minute journey to the grocery store, but pockets, especially on the edges of the city, take longer.
+
 [![](Images/GroceryStoreTransitTime.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
 ## Grocery Store Walking Accessibility 
@@ -102,6 +104,8 @@ Skills shown: Displaying raster data on a map
 
 ## Interactive Map- Grocery Stores and Poverty
 Skills shown: Displaying data on an interactive map
+
+This final interactive map compares grocery store locations with poverty rates from the 2019 ACS Community Survey 5-Year Estimates. This map, used with the prior accessibility maps, can help identify neighborhoods that are the most in need of increased affordable food access.
 
 Click the image to explore the interactive map.
  [![](Images/InteractiveMapStill.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/PDXPoverty2019_Grocery.html){target="_blank"}
