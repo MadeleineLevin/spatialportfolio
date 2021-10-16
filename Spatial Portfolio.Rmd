@@ -59,13 +59,21 @@ Today, the size of Mumbai is much larger than the boundaries of the historical m
 
 
 # Philadelphia, PA
+These two maps look at bike share stations and bike crashes in Philadelphia, PA.
+[Open Data Philly]( https://www.opendataphilly.org/). 
 
 ## Neighborhoods by Number of Bike Share Stations
-* Aggregating point data to a layer of polygons
+Skills shown: Aggregating point data to a layer of polygons
+
+This first map shows that the Philadelphia's bike share system remains concentrated in the downtown area. In fact, only 22% of Philadelphia neighborhoods have bike share stations. However, bike crashes (as shown in the next map) and thus bike ridership, occur throughout the city.
 
 [![](Images/PhillyBikeShare.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
 ## Bike Crashes by Distance to Bike Share Station
+
+Skills shown: Calculating and displaying relationships among point layers based on distance
+
+While the average bike crash happened over 2000 meters from a bike share station, we can see that the city center, which is also where most bike share stations are located, had a higher density of crashes. Comparing this data to population and traffic density might help provide a fuller picture.
 
 [![](Images/PhillyBikeCrash.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
@@ -73,14 +81,12 @@ Today, the size of Mumbai is much larger than the boundaries of the historical m
 This series of maps explores food access in Portland, Oregon. It uses transit data, grocery store data points, and poverty status to identify the neighborhoods in Portland with the most need for greater grocery store access. 
 
 ## Grocery Store Transit Accessibility
-* Calculating and displaying relationships among point and polygon layers based on distance
-* Calculating and displaying accessibility, based on travel time
+Skills shown: calculating and displaying relationships among point and polygon layers based on distance; Calculating and displaying accessibility, based on travel time
 
 [![](Images/GroceryStoreTransitTime.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
 ## Grocery Store Walking Accessibility 
-* Calculating and displaying accessibility, based on travel time
-* Converting between raster layers and vector layers
+Skills shown: Calculating and displaying accessibility, based on travel time, Converting between raster layers and vector layers
 
 The following two maps (the first a vector, the second a raster) visualize the same Walking Accessibility Scores. Very few neighborhoods in Portland are accessible on foot to grocery stores. 
 
@@ -89,13 +95,14 @@ Vector:
 [![](Images/GroceryAccessibilityVector.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
 Conversion to Raster:
-* Displaying raster data on a map
+Skills shown: Displaying raster data on a map
 
 [![](Images/GroceryAccessRaster.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
 
 ## Interactive Map- Grocery Stores and Poverty
-* Displaying data on an interactive map
+Skills shown: Displaying data on an interactive map
 
-[![](PDFs/PDXPoverty2019_Grocery.html)](https://madeleinelevin.github.io/spatialportfolio/PDFs/PDXPoverty2019_Grocery.html){target="_blank"}
+Click the image to explore the interactive map.
+ [![](Images/InteractiveMapStill.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/PDXPoverty2019_Grocery.html){target="_blank"}
 
