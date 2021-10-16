@@ -12,32 +12,48 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-Your portfolio should demonstrate each of the following skills:
+This portfolio shows a series of maps created in R (except for the maps of Mumbai which were created in QGIS) demonstrating the following skills:
 
 * Displaying multiple vector layers on the same map
+
 * Calculating and displaying relationships among point and polygon layers based on distance
+
 * Aggregating point data to a layer of polygons
+
 * Calculating and displaying accessibility, based on travel time
+
 * Converting between raster layers and vector layers
+
 * Displaying raster data on a map
+
 * Georeferencing a raster image
+
 * Displaying data on an interactive map
 
+The maps cover a range of cities and display data pulled from historical maps, OpenStreetMaps, local open data sources, US Census data, and more. 
+
 # Cambridge, MA
+
+Skills shown: Displaying multiple vector layers on the same map
+
 This map of Cambridge, MA visualizes multiple vector layers: open space and schools in the town. 
 
 [![](Images/CambridgeMap.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/CambridgeMap.pdf){target="_blank"}
 
 
 # Mumbai, India
+Skills shown: Displaying raster data on a map; Georeferencing a raster image
+
 For an assignment on Georeferencing, a map of Mumbai from 1960 was brought into conversation with both historical and more recent data about the city.
 
 ## Historical Administrative Boundaries
+This map overlays administrative boundaries of Mumbai (Bombay at the time) from 1931, 1955, and 1968 on a map from 1960. This visualizes the physical growth of the city over several decades, especially along the waterfront where infill created new land. 
 
 [![](Images/1960_MumbaiAdminBoundaries.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/C1960_MumbaiAdminBoundaries.pdf){target="_blank"}
 
 
 ## Current Population Density
+Today, the size of Mumbai is much larger than the boundaries of the historical map and sprawl extends beyond city limits. This is demonstrated in this point population density layer where a zoomed out inset map is needed to show just how far the urban area of Mumbai extends.
 
 [![](Images/Mumbai_PopulationDensity.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
@@ -45,6 +61,7 @@ For an assignment on Georeferencing, a map of Mumbai from 1960 was brought into 
 # Philadelphia, PA
 
 ## Neighborhoods by Number of Bike Share Stations
+* Aggregating point data to a layer of polygons
 
 [![](Images/PhillyBikeShare.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
@@ -56,10 +73,15 @@ For an assignment on Georeferencing, a map of Mumbai from 1960 was brought into 
 This series of maps explores food access in Portland, Oregon. It uses transit data, grocery store data points, and poverty status to identify the neighborhoods in Portland with the most need for greater grocery store access. 
 
 ## Grocery Store Transit Accessibility
+* Calculating and displaying relationships among point and polygon layers based on distance
+* Calculating and displaying accessibility, based on travel time
 
 [![](Images/GroceryStoreTransitTime.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
 ## Grocery Store Walking Accessibility 
+* Calculating and displaying accessibility, based on travel time
+* Converting between raster layers and vector layers
+
 The following two maps (the first a vector, the second a raster) visualize the same Walking Accessibility Scores. Very few neighborhoods in Portland are accessible on foot to grocery stores. 
 
 Vector:
@@ -67,11 +89,13 @@ Vector:
 [![](Images/GroceryAccessibilityVector.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
 Conversion to Raster:
+* Displaying raster data on a map
 
 [![](Images/GroceryAccessRaster.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
 
 
 ## Interactive Map- Grocery Stores and Poverty
+* Displaying data on an interactive map
 
 [![](PDFs/PDXPoverty2019_Grocery.html)](https://madeleinelevin.github.io/spatialportfolio/PDFs/PDXPoverty2019_Grocery.html){target="_blank"}
 
