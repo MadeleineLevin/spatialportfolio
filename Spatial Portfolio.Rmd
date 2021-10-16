@@ -78,7 +78,7 @@ While the average bike crash happened over 2000 meters from a bike share station
 [![](Images/PhillyBikeCrash.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/BikeCrashMap.pdf){target="_blank"}
 
 # Portland, OR
-This series of maps explores food access in Portland, Oregon. It uses transit data, grocery store data points, and poverty status to identify the neighborhoods in Portland with the most need for greater grocery store access. 
+This series of maps explores food access in Portland, Oregon. It uses transit data, grocery store data points, and poverty status to identify the neighborhoods in Portland with the most need for greater grocery store access. [PortlandMaps-Open Data]( https://gis-pdx.opendata.arcgis.com/). 
 
 ## Grocery Store Transit Accessibility
 Skills shown: calculating and displaying relationships among point and polygon layers based on distance; Calculating and displaying accessibility, based on travel time
@@ -92,14 +92,14 @@ Skills shown: Calculating and displaying accessibility, based on travel time, Co
 
 The following two maps (the first a vector, the second a raster) visualize the same Walking Accessibility Scores. Very few neighborhoods in Portland are accessible on foot to grocery stores. 
 
-Vector:
+### Vector:
 
-[![](Images/GroceryAccessibilityVector.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
+[![](Images/GroceryAccessibilityVector.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/AccessVector.pdf){target="_blank"}
 
-Conversion to Raster:
+### Conversion to Raster:
 Skills shown: Displaying raster data on a map
 
-[![](Images/GroceryAccessRaster.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
+[![](Images/GroceryAccessRaster.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/AccessRaster.pdf){target="_blank"}
 
 
 ## Interactive Map- Grocery Stores and Poverty
