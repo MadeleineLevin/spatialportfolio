@@ -44,7 +44,7 @@ This map of Cambridge, MA visualizes multiple vector layers: open space and scho
 # Mumbai, India
 Skills shown: Displaying raster data on a map; Georeferencing a raster image
 
-For an assignment on Georeferencing, a map of Mumbai from 1960 was brought into conversation with both historical and more recent data about the city.
+For an assignment on Georeferencing, a map of Mumbai from 1960 was georeferenced and layered underneath both historical and more recent spatial data.
 
 ## Historical Administrative Boundaries
 This map overlays administrative boundaries of Mumbai (Bombay at the time) from 1931, 1955, and 1968 on a map from 1960. This visualizes the physical growth of the city over several decades, especially along the waterfront where infill created new land. 
@@ -90,7 +90,7 @@ This map uses the Trimet data to estimate the amount of time it takes to reach a
 ## Grocery Store Walking Accessibility 
 Skills shown: Calculating and displaying accessibility, based on travel time, Converting between raster layers and vector layers
 
-The following two maps (the first a vector, the second a raster) visualize the same Walking Accessibility Scores. Very few neighborhoods in Portland are accessible on foot to grocery stores. 
+The following two maps (the first a vector, the second a raster) visualize the same Walking Accessibility Scores. Many Portland neighborhoods are not accessible on foot to grocery stores. 
 
 ### Vector:
 
