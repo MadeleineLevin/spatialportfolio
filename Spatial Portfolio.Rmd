@@ -1,7 +1,7 @@
 ---
-title: "Spatial Portfolio"
+title: "Spatial Analysis Portfolio"
 author: "Madeleine Levin"
-date: "10/14/2021"
+date: "Fall 2021"
 output: 
   rmdformats::robobook
 ---
@@ -67,7 +67,7 @@ Skills shown: Aggregating point data to a layer of polygons
 
 This first map shows that the Philadelphia's bike share system remains concentrated in the downtown area. In fact, only 22% of Philadelphia neighborhoods have bike share stations. However, bike crashes (as shown in the next map) and thus bike ridership, occur throughout the city.
 
-[![](Images/PhillyBikeShare.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
+[![](Images/PhillyBikeShare.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/BikeShareMap.pdf){target="_blank"}
 
 ## Bike Crashes by Distance to Bike Share Station
 
@@ -75,7 +75,7 @@ Skills shown: Calculating and displaying relationships among point layers based 
 
 While the average bike crash happened over 2000 meters from a bike share station, we can see that the city center, which is also where most bike share stations are located, had a higher density of crashes. Comparing this data to population and traffic density might help provide a fuller picture.
 
-[![](Images/PhillyBikeCrash.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
+[![](Images/PhillyBikeCrash.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/BikeCrashMap.pdf){target="_blank"}
 
 # Portland, OR
 This series of maps explores food access in Portland, Oregon. It uses transit data, grocery store data points, and poverty status to identify the neighborhoods in Portland with the most need for greater grocery store access. 
@@ -85,7 +85,7 @@ Skills shown: calculating and displaying relationships among point and polygon l
 
 This map uses the Trimet data to estimate the amount of time it takes to reach a grocery store on public transit. Most areas are within a 20 minute journey to the grocery store, but pockets, especially on the edges of the city, take longer.
 
-[![](Images/GroceryStoreTransitTime.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/Mumbai_PopulationDensity.pdf){target="_blank"}
+[![](Images/GroceryStoreTransitTime.png)](https://madeleinelevin.github.io/spatialportfolio/PDFs/TransitGrocery.pdf){target="_blank"}
 
 ## Grocery Store Walking Accessibility 
 Skills shown: Calculating and displaying accessibility, based on travel time, Converting between raster layers and vector layers
